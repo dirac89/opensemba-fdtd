@@ -1,3 +1,0 @@
-/home/dirac89/eclipse/workspace/Main/src/CMakeFiles/edit_cache.dir
-/home/dirac89/eclipse/workspace/Main/src/CMakeFiles/rebuild_cache.dir
-/home/dirac89/eclipse/workspace/Main/src/CMakeFiles/Hello.dir
