@@ -1,0 +1,3 @@
+[submodule "external/OpenSEMBA"]
+	path = external/OpenSEMBA
+	url = https://github.com/OpenSEMBA/OpenSEMBA.git
