@@ -1,3 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6.0)
 PROJECT(Main)
+set (EXECUTABLE_OUTPUT_PATH ${Main_BINARY_DIR}/bin
+     CACHE PATH "Directory for Executables")
 ADD_EXECUTABLE(Main Main.cpp)
